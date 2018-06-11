@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+    overflow: auto;
+}
+.myLink {display: none}
+.w3-display-middle1 {
+  position: absolute; 
+   margin-left: 20%;
+   margin-top: 4%; 
+    }
+    .container {
+    height: auto;
+    }
+    .w3-image {
+        max-width: 100%;
+        max-height: 500px; */
+    }
+    .bali
+    {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img/bali.jpg);
+    height: 500px;
+    }
+    
